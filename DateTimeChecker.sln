@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeChecker", "DateTimeChecker.csproj", "{D86E3952-EA35-4627-BF54-FD435A782CDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D86E3952-EA35-4627-BF54-FD435A782CDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D86E3952-EA35-4627-BF54-FD435A782CDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D86E3952-EA35-4627-BF54-FD435A782CDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D86E3952-EA35-4627-BF54-FD435A782CDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2160764-A9EC-4731-9CE3-11096B8F4EF1}
+	EndGlobalSection
+EndGlobal
